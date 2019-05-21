@@ -19,7 +19,7 @@ use pocketmine\event\Listener;
 use pocketmine\inventory\Inventory;
 
 class Main extends PL implements Listener {
-	
+	// Thx SonsaYt lol
 	public $staffList = [];
 	public $targetPlayer = [];
 	
