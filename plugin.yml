@@ -3,7 +3,8 @@ author: Hirss
 version: 1.0
 main: Hirss\StaffUI\Main
 api: [3.0.0, 4.0.0]
-website: https://discord.gg/4RFU8neommands:
+website: https://discord.gg/4RFU8ne
+commands:
  smenu:
   description: "Global StaffUI"
  sinfo:
